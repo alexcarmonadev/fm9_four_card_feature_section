@@ -1,13 +1,13 @@
 # Frontend Mentor - Four card feature section solution
 
-:point_right: This is the [Four card feature section](aqui va el reto de frontendmentor) challenge on Frontend Mentor.
+:point_right: This is the [Four card feature section](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK) challenge on Frontend Mentor.
 
 ## Overview
 
 ### Links
 
-:heavy_check_mark: My `Solution` URL : [Frontend Mentor Solution](Aqui va tu solucion de frontendmentor) </br>
-:heavy_check_mark: My `Live` Site URL : [GitHub Pages](Aqui va tu solucion de github pages)
+:heavy_check_mark: My `Solution` URL : [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/mobile-first-oGsG7wDsK) </br>
+:heavy_check_mark: My `Live` Site URL : [GitHub Pages](https://alexcarmonadev.github.io/fm9_four_card_feature_section/)
 
 Give a ⭐️ if you like this project!
 
